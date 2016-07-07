@@ -22,14 +22,9 @@
     NSLog(@"我是你大哥");
     NSLog(@"我是个你大哥大哥");
     NSLog(@"我是你大哥");
+    NSLog(@"我是个你大哥大哥"); NSLog(@"我是你大哥");
+    NSLog(@"我是个你大哥大哥"); NSLog(@"我是你大哥");
     NSLog(@"我是个你大哥大哥");
-    NSLog(@"我是你大哥");
-    NSLog(@"我是个你大哥大哥");
-    NSLog(@"我是你大哥");
-    NSLog(@"我是个你大哥大哥");
-    NSLog(@"我是你大哥");
-    NSLog(@"我是个你大哥大哥");
-    
 }
 
 - (void)didReceiveMemoryWarning {
