@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0577E3877DD173F7F4CAB28F8DAA138BEA7FEBA5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D43C4C3564FDC1604397163222B18FB36CB1CA9D" : 0,
+    "0577E3877DD173F7F4CAB28F8DAA138BEA7FEBA5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F7928B01-294E-4AA3-AADD-07C921B3086C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D43C4C3564FDC1604397163222B18FB36CB1CA9D" : "",
+    "0577E3877DD173F7F4CAB28F8DAA138BEA7FEBA5" : "git\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Myapp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Myapp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cbd520\/Myapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0577E3877DD173F7F4CAB28F8DAA138BEA7FEBA5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cbd520\/SJAPIManager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D43C4C3564FDC1604397163222B18FB36CB1CA9D"
+    }
+  ]
+}
